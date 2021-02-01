@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{articles:[{slug:"bem-vindo",description:"Bem vindo ao meu blog pessoal.",title:"Primeiro Post",date:"2021-02-01"}]}],fetch:[],mutations:void 0});
