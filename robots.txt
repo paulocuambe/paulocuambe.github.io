@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://paulocuambe.github.io/sitemap.xml

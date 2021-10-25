@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{articles:[{slug:"primeiro-artigo",description:"Neste primeiro artigo vou falar sobre as motivações por detrás deste blog e sobre as tecnologias usadas para a sua construção.",title:"Primeiro Artigo",date:"2021-02-10",reading_time:121500}]}],fetch:{},mutations:void 0});
