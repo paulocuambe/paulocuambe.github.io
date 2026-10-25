@@ -100,7 +100,7 @@ h1 { font-size: clamp(40px, 5.5vw, 56px); font-weight: 500; line-height: 1.2; le
   mask: url("knot-divider.svg") center / contain no-repeat;
 }
 .external-mark { display: inline-block; margin-left: .2em; line-height: 1; white-space: nowrap; }
-.external-icon { width: .75em; height: .75em; vertical-align: -.025em; }
+.external-icon { display: inline-block; width: 12px; height: 12px; flex-shrink: 0; vertical-align: baseline; }
 .post-quote { margin: 0; }
 .post-quote blockquote { margin: 0; }
 .post-quote figcaption { margin-top: 16px; padding-left: 22px; font-size: 16px; color: var(--muted); }
