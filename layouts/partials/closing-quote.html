@@ -5,6 +5,7 @@
   {{- $author = $.Params.closing_quote_author -}}
 {{- end -}}
 {{- with $quote }}
+<hr class="post-divider">
 <figure class="prose post-quote" aria-label="Closing quote">
   <blockquote><p>{{ . }}</p></blockquote>
   {{ with $author }}<figcaption>— {{ . }}</figcaption>{{ end }}

@@ -14,6 +14,8 @@ The first act of building an OS is getting the computer to load your code and di
 
 Operating sytems are cool and hard to build -- that's why there a very few of them, but that's not what I want to talk with you about. 
 
+--- 
+
 _Fasten your seatbelts. This is a rant about discovering my own stupidity and my disappointement with the education system in my country._
 
 ## The best years of my life

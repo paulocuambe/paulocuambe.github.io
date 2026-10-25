@@ -14,6 +14,8 @@ The internet was created before my father and mother met.
 
 The dotcom era started right around my father and mother had their 3rd child.
 
+---
+
 All of this was way before I was born. I was welcomed into a magnificent world. Built by giants to whom we all are indebted to. They never saw the full impact of the work of their lives.
 
 I can take out a device made of glass out of my pocket at any moment and talk to my sister on the other end of the country in real-time. I can collaborate with my friend who’s in western Asia without any perceivable delays.
