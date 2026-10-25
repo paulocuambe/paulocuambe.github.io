@@ -1,0 +1,13 @@
+baseURL = 'https://paulocuambe.github.io/'
+languageCode = 'en'
+title = 'Paulo Cuambe'
+enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
+[params]
+  description = 'I talk about computers'
+  x = 'https://x.com/gosenx_'
+  github = 'https://github.com/paulocuambe'
+  linkedin = 'https://linkedin.com/in/paulocuambe'
+  closing_quote = 'Those who do not know the torment of the unknown cannot have the joy of discovery.'
+  closing_quote_author = 'Claude Bernard'
+# Fenced code is rendered by layouts/_markup/render-codeblock.html for Arborium.

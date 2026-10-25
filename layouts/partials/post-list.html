@@ -1,0 +1,6 @@
+<ol class="post-list">{{ range $i, $post := .posts }}
+<li{{ if and (eq $i 0) $.highlight }} class="latest"{{ end }}>
+<time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time><div>
+{{ if and (eq $i 0) $.highlight }}<span class="latest-label"><span aria-hidden="true">●</span> Latest entry</span>{{ end }}
+<h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>{{ with .Description }}<p>{{ . }}</p>{{ end }}</div></li>
+{{ else }}<li><p class="muted">Nothing here yet. A first note is on its way.</p></li>{{ end }}</ol>

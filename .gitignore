@@ -1,1 +1,6 @@
 *.swp
+
+/public/
+/resources/
+/.hugo_build.lock
+publish.md

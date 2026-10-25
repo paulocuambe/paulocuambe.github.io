@@ -1,0 +1,12 @@
+{{- $quote := site.Params.closing_quote -}}
+{{- $author := site.Params.closing_quote_author -}}
+{{- with .Params.closing_quote -}}
+  {{- $quote = . -}}
+  {{- $author = $.Params.closing_quote_author -}}
+{{- end -}}
+{{- with $quote }}
+<figure class="prose post-quote" aria-label="Closing quote">
+  <blockquote><p>{{ . }}</p></blockquote>
+  {{ with $author }}<figcaption>— {{ . }}</figcaption>{{ end }}
+</figure>
+{{- end }}

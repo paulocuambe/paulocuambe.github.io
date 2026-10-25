@@ -1,0 +1,58 @@
+/* Accessibility adjustments to Arborium Ayu: preserve hue and saturation,
+   adjusting lightness to reach at least 5:1 on our code backgrounds.
+   Upstream palettes remain unmodified under vendor/arborium/. */
+:root {
+  --arb-co-light: #844dbb;
+  --arb-cb-light: #844dbb;
+  --arb-fb-light: #925c0a;
+  --arb-f-light: #925c0a;
+  --arb-fm-light: #925c0a;
+  --arb-k-light: #ac4b04;
+  --arb-kc-light: #ac4b04;
+  --arb-ko-light: #ac4b04;
+  --arb-kd-light: #ac4b04;
+  --arb-ke-light: #ac4b04;
+  --arb-kf-light: #ac4b04;
+  --arb-ki-light: #ac4b04;
+  --arb-kp-light: #ac4b04;
+  --arb-kr-light: #ac4b04;
+  --arb-kt-light: #ac4b04;
+  --arb-ky-light: #ac4b04;
+  --arb-o-light: #af4815;
+  --arb-pr-light: #166caa;
+  --arb-ps-light: #8e5e1c;
+  --arb-s-light: #557100;
+  --arb-ss-light: #2a745c;
+  --arb-tg-light: #23708b;
+  --arb-td-light: #23708b;
+  --arb-te-light: #23708b;
+  --arb-t-light: #166caa;
+  --arb-tb-light: #166caa;
+  --arb-tq-light: #166caa;
+  --arb-vb-light: #ac4b04;
+  --arb-c-light: #626970;
+  --arb-cd-light: #626970;
+  --arb-m-light: #925c0a;
+  --arb-l-light: #23708b;
+  --arb-n-light: #844dbb;
+  --arb-tu-light: #23708b;
+  --arb-tr-light: #166caa;
+  --arb-se-light: #2a745c;
+  --arb-tt-light: #166caa;
+  --arb-in-light: #ac4b04;
+  --arb-sc-light: #ac4b04;
+  --arb-rp-light: #ac4b04;
+  --arb-cn-light: #ac4b04;
+  --arb-ex-light: #ac4b04;
+  --arb-pp-light: #ac4b04;
+  --arb-ch-light: #557100;
+  --arb-cs-light: #557100;
+  --arb-fd-light: #925c0a;
+  --arb-tf-light: #166caa;
+  --arb-fc-light: #925c0a;
+  --arb-km-light: #ac4b04;
+  --arb-dr-light: #ac4b04;
+  --arb-rx-light: #557100;
+  --arb-c-dark: #7c8690;
+  --arb-cd-dark: #7c8690;
+}

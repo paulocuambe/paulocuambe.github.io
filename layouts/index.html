@@ -1,0 +1,11 @@
+{{ define "main" }}
+<figure class="intro home-quote" aria-labelledby="intro-title">
+  <blockquote>
+    <h1 id="intro-title">Those who do not know the torment of the unknown cannot have the <em>joy of discovery.</em></h1>
+  </blockquote>
+  <figcaption>— Claude Bernard</figcaption>
+</figure>
+{{ $posts := where site.RegularPages "Section" "posts" }}
+<section aria-labelledby="writing-title"><div class="section-heading"><h2 id="writing-title">Recent writing</h2><span class="muted">{{ len $posts }} posts</span></div>
+{{ partial "post-list.html" (dict "posts" (first 10 $posts.ByDate.Reverse) "highlight" true) }}
+<a class="archive-link" href="{{ "posts/" | relURL }}">All writing <span aria-hidden="true">→</span></a></section>{{ end }}

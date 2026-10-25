@@ -1,0 +1,1 @@
+{{ define "main" }}<header class="page-heading"><h1>{{ .Title }}</h1><p class="muted">Everything I've written, newest first.</p></header>{{ partial "post-list.html" (dict "posts" .RegularPages.ByDate.Reverse "highlight" false) }}{{ end }}
