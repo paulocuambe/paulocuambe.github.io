@@ -14,7 +14,7 @@ Needless to say, I felt dumb, uneducated and lost most of the time as I was stru
 
 At some point, I remembered my time in university and started asking myself why I was struggling so much when I had taken Operating Systems classes along with computer architecture and had studied many programming languages and paradigms.
 
-I wasn't expecting things to be easy, but during the 4 years I was there, my intuition should have been honed enough for me to at least have a solid foundation from which to start. But in this case it was as if I was starting from scratch.
+I wasn't expecting things to be easy, but during the 4 years I was there, my intuition should have been honed enough for me to at least have a solid foundation from which to start. But in this case, it was as if I was starting from scratch.
 
 ## I loved university. So what was missing?
 
