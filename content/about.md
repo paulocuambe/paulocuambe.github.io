@@ -4,8 +4,9 @@ description = 'Software engineer. Based in Maputo, Mozambique.'
 +++
 Hi, I'm Paulo Cuambe.
 
-I work with software and enjoy understanding how computers work. This is a small corner of the internet for notes, experiments, and things I want to remember.
+I work with software and enjoy understanding how computers work.
 
-Mostly computers. Sometimes the things around them.
+I study the works of great scientists of the past, mainly those related to computer science in any way.
 
-You can find my projects on [GitHub](https://github.com/paulocuambe).
+I will leave you with this quote by _David MacMillan - Nobel Prize in Chemistry 2021_:
+> We fail much more than we ever succeeed. We know that. We accept that. We are amazing at dealing with failure. That's what scientists do.
