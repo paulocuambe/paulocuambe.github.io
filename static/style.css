@@ -99,7 +99,8 @@ h1 { font-size: clamp(40px, 5.5vw, 56px); font-weight: 500; line-height: 1.2; le
   -webkit-mask: url("knot-divider.svg") center / contain no-repeat;
   mask: url("knot-divider.svg") center / contain no-repeat;
 }
-.external-mark { font-size: .8em; margin-left: .2em; white-space: nowrap; }
+.external-mark { display: inline-block; margin-left: .2em; line-height: 1; white-space: nowrap; }
+.external-icon { width: .75em; height: .75em; vertical-align: -.025em; }
 .post-quote { margin: 0; }
 .post-quote blockquote { margin: 0; }
 .post-quote figcaption { margin-top: 16px; padding-left: 22px; font-size: 16px; color: var(--muted); }
@@ -112,7 +113,7 @@ h1 { font-size: clamp(40px, 5.5vw, 56px); font-weight: 500; line-height: 1.2; le
 .footer-links a:hover { color: var(--link); }
 .social { display: flex; align-items: center; gap: 3px; text-decoration: none; min-height: 32px; }
 .social svg { width: 15px; height: 15px; fill: currentColor; }
-.social span { font-size: 10px; }
+.social svg.external-icon { width: 11px; height: 11px; fill: none; flex-shrink: 0; }
 .rss { font-size: 13px; }
 .skip { position: absolute; top: -100px; left: 20px; background: var(--paper); padding: 8px 16px; z-index: 1; }
 .skip:focus { top: 8px; }
