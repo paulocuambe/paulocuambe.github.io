@@ -30,5 +30,5 @@ I can't come to this marvelous world built by others and not give my best to con
 
 In my day and age, Super Intelligence is almost at our doors. AI systems get better and better by the day. 
 
-As to me, I have pose these questions to myself:
+I close this with a question to myself:
 * What am I doing for the next generation?
