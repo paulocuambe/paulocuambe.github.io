@@ -10,11 +10,11 @@ I've recently decided to write my own operating system. This is the hardest proj
 
 The first step in the journey of writing an OS is getting the computer to load your code and display some text on the screen. That alone is hard. Before you can make any meaningful progress, you need to understand computer architecture, hardware, compilers, linkers, assembly, memory and all the glue in between the hardware and software layers. Hardware specs and ISA manuals will be part of your day -- those docs alone have thousands of pages.
 
-Needless to say that I felt dumb, uneducated and lost most of the time as I was struggling to find my way through my first bootable binary. I didn't even know where to begin.
+Needless to say, I felt dumb, uneducated and lost most of the time as I was struggling to find my way through my first bootable binary. I didn't even know where to begin.
 
-At some point I remembered about my time in University and started questioning myself why I was struggling so much when I took a Operating Systems classes, along with computer architecture and studied many programming languages and paradigms.
+At some point, I remembered my time in university and started asking myself why I was struggling so much when I had taken Operating Systems classes along with computer architecture and had studied many programming languages and paradigms.
 
-I wasn't expecting things to be easy, but during the 4 years I was there my intuition should have been honed enough for me to at least have some solid foundation from where to start, but I had none, I had to start from zero.
+I wasn't expecting things to be easy, but during the 4 years I was there, my intuition should have been honed enough for me to at least have a solid foundation from which to start. But in this case it was as if I was starting from scratch.
 
 ## I loved university. So what was missing?
 
@@ -36,13 +36,13 @@ Yeah, a user. Not a creator. Not a machine-bending expert. A user.
 
 That focus makes sense when I look at the work available in our job market. We have zero companies producing CPUs or working on operating systems, compilers or things at lower levels of abstraction.
 
-I work in the field, and even basic websites and CRUD apps are imported. 100% of the hardware we use is imported. For software, probably 80/90% comes from companies outside the country.
+I work in the field, and even basic websites and CRUD apps are imported. 100% of the hardware we use is imported. Most software used in companies is developed by companies outside the country.
 
-In a reality like that, what do you need? A creator or a user?
+In this reality, what do you need? A creator or a user?
 
 Why would you be taught how to bend bits to your will when you will end up in an office clicking buttons and being a middleman all day? Why understand pipelining, branch prediction, compiler frontends or backends?
 
-When you see things from this lens it _kind of_ makes sense.
+When you see things through this lens, it _kind of_ makes sense.
 
 But if our education only prepares us for that reality, how do we ever change it?
 
@@ -52,6 +52,6 @@ All powerful modern economies were built on a strong engineering pedigree and fi
 
 At this rate, we are doomed to be consumers forever. We will continue to wait and rely on those who produce to share their excess with us.
 
-That is what makes me mad. I loved my education, but I we need more from it than the ability to use what others built.
+That is what makes me mad. I loved my education, but we need more from it than the ability to use what others built.
 
 As for me, I want to be a freaking creator in this game. I want that power at my fingertips. I want to command bits.
