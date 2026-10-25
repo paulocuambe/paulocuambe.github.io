@@ -2,7 +2,7 @@
 title = "I don't want to be a spectator"
 date = 2026-10-25
 description = "I must participate in building the future."
-closing_quote = 'If I have seen further, it is by standing on ye shoulders of giants, (..)'
+closing_quote = 'If I have seen further, it is by standing on the shoulders of giants.'
 closing_quote_author = 'Isaac Newton'
 +++
 
@@ -20,9 +20,9 @@ All of this was way before I was born. I was welcomed into a magnificent world, 
 
 I can take a device made of glass out of my pocket at any moment and talk to my sister on the other end of the country in real time. I can collaborate with my friend who’s in western Asia without any perceivable delays.
 
-**Ladies and gentlemen, we live in a utopia.** It’s true that there is a lot that we have to improve in our society, but the world we live in today is marvelous. A work of art. A portrait painted by many artists over centuries.
+---
 
-In my day and age, superintelligence is almost at our door. AI systems get better and better by the day.
+**Ladies and gentlemen, we live in a utopia.** It’s true that there is a lot that we have to improve in our society, but the world we live in today is marvelous. A work of art. A portrait painted by many artists over centuries.
 
 I must also participate in building the world future generations will live in.
 
