@@ -61,3 +61,5 @@ In hindsight, I can really say I love reading.
 I listen to audiobooks as well, but those were not mentioned here. There are also papers I've loved reading, but those will have to wait for another occasion.
 
 I'm currently working through some books that might get added to the list soon.
+
+![Copies of Operating Systems: Three Easy Pieces and Advanced Programming in the UNIX Environment resting on top of other books.](/posts/books.jpeg)

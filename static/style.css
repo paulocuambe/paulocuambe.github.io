@@ -86,7 +86,7 @@ h1 { font-size: clamp(40px, 5.5vw, 56px); font-weight: 500; line-height: 1.2; le
 .prose code { font-size: .85em; }
 .prose pre { background: var(--code-background); color: var(--ink); padding: 20px 24px; border-radius: 6px; overflow-x: auto; line-height: 1.75; max-width: 100%; tab-size: 4; }
 .prose pre code { padding: 0; border: 0; border-radius: 0; font-size: 16px; }
-.prose img { max-width: 100%; height: auto; }
+.prose img { width: 100%; max-width: 100%; height: auto; }
 .prose table { display: block; overflow-x: auto; border-collapse: collapse; }
 .prose th, .prose td { border-bottom: 1px solid var(--muted); padding: 8px 16px; text-align: left; }
 .prose hr, .post-divider {
