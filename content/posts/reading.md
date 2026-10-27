@@ -6,7 +6,7 @@ closing_quote = 'Originality often consists in linking up ideas whose connection
 closing_quote_author = 'William Beveridge'
 +++
 
-I love reading. I’ve read many books and specs, so much so that I’ve lost count and track of all the books that I have read.
+I love reading. I’ve read many books and specs, so much so that I’ve lost count and track of everything I've read.
 
 As I’m getting into the rhythm of writing on this blog, I thought I would share some of my favorite books and specs I've read over the years.
 
@@ -14,7 +14,7 @@ As I’m getting into the rhythm of writing on this blog, I thought I would shar
 
 Books are my favorite way of learning new subjects. Here are some that I remember and liked reading:
 
-- **Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau:** One of my all-time favorite books. This book demystified so much for me; I’ll be eternally grateful to the authors that make the book freely available. I read it throught the PDFs they provide on the website, but I had to get my hands on the book so I bought a physical version.
+- **Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau:** One of my all-time favorite books. This book demystified so much for me; I’ll be eternally grateful to the authors for making the book freely available. I read it using the PDFs they provide on the website, but I had to get my hands on the book, so I bought a physical version.
 
 - **The Art of Multiprocessor Programming by Maurice Herlihy and Nir Shavit:** The book is good. The reading can’t be described as pleasant as you have to think about hard concepts, but the authors do a great job with the examples. I first learned about Amdahl’s law in this book, and I see it everywhere now.
 
@@ -26,7 +26,7 @@ Books are my favorite way of learning new subjects. Here are some that I remembe
 
 - **Modern Computer Architecture and Organization by Jim Ledin:** I loved this book. I had so many aha moments and learned so much about CPUs and GPUs. I remember hating the beginning of the book, but as I got further into the book, I started appreciating it.
 
-- **Programming language books:** I read the The Rust Programming Language by Steve Klabnik and Carol Nichols, Rust for Rustaceans by Jon Gjengset (a big portion of it — didn’t finish), and Learning Go: An Idiomatic Approach to Real-World Go Programming by Jon Bodner (I don’t remember why, but I didn’t like the book at the time).
+- **Programming language books:** I read The Rust Programming Language by Steve Klabnik and Carol Nichols, Rust for Rustaceans by Jon Gjengset (a big portion of it — I didn’t finish), and Learning Go: An Idiomatic Approach to Real-World Go Programming by Jon Bodner (I don’t remember why, but I didn’t like the book at the time).
 
 - **Kubernetes in Action, Second Edition by Marko Lukša:** When I changed roles, I had to catch up on Kubernetes, and as books are my favorite learning tool, I devoured Kubernetes in Action. At the time, the book was still being worked on, so I had to wait for Part 5 to be completed. I submitted many comments on typos and things that were wrong (I hope some of those got used).
 
@@ -58,6 +58,6 @@ I read many others as well — I have a list with many that have a ticked-off ch
 
 In hindsight, I can really say I love reading.
 
-I listen to audiobooks as well, but those were not mentioned here. There are also papers I've loved reading, but those will have to wait for another ocassion.
+I listen to audiobooks as well, but those were not mentioned here. There are also papers I've loved reading, but those will have to wait for another occasion.
 
-I'm currently working through some books now that might get added to the list soon.
+I'm currently working through some books that might get added to the list soon.
