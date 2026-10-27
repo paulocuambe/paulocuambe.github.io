@@ -2,8 +2,8 @@
 title = "I love reading"
 date = 2026-10-27
 description = "Here I go over some books and specs I loved reading."
-closing_quote = 'Success is never accidental.'
-closing_quote_author = 'Jack Dorsey'
+closing_quote = 'Originality often consists in linking up ideas whose connection was not previously suspected.'
+closing_quote_author = 'William Beveridge'
 +++
 
 I love reading. I’ve read many books and specs, so much so that I’ve lost count and track of all the books that I have read.
