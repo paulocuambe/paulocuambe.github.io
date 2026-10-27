@@ -1,5 +1,5 @@
 +++
-title = "I love reading"
+title = "Books and Specs I enjoyed reading"
 date = 2026-10-27
 description = "Here I go over some books and specs I loved reading."
 closing_quote = 'Originality often consists in linking up ideas whose connection was not previously suspected.'
@@ -58,6 +58,6 @@ I read many others as well — I have a list with many that have a ticked-off ch
 
 In hindsight, I can really say I love reading.
 
-I listen to audiobooks as well, but those were not mentioned here.
+I listen to audiobooks as well, but those were not mentioned here. There are also papers I've loved reading, but those will have to wait for another ocassion.
 
-And I keep on reading. I'm currently working through some books now that might get added to the list soon.
+I'm currently working through some books now that might get added to the list soon.
